@@ -28,7 +28,7 @@ class Server:
 
         return self.__dataset
 
-    def indexed_dataset(self) -> dict[int, List]:
+    def indexed_dataset(self) -> dict:
         """Dataset indexed by sorting position, starting at 0
         """
         if self.__indexed_dataset is None:
@@ -55,7 +55,7 @@ class Server:
         if not index:
             index = 0
         paged_keys = [key for key in sorted_keys
-                if index <= key][:2]
+                      if index <= key][:2]
         paged_data = [data[key] for key in paged_keys]
         next_index = sorted_keys.index(max(paged_keys)) + 1
         return {
