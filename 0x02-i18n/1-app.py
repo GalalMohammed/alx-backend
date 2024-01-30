@@ -16,7 +16,7 @@ class Config(object):
 
 
 babel = Babel()
-app.config.form_object(Config)
+app.config.from_object(Config)
 babel.init_app(app)
 
 
