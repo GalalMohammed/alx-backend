@@ -15,13 +15,9 @@ class Config(object):
     LANGUAGES = ['en', 'fr']
 
 
-def get_locale():
-    """Pick the best language translation to use.
-    """
-    return request.accept_languages.best_match(Config['LANGUAGES'])
-
-
-babel = Babel(app, locale_selector=get_locale)
+babel = Babel()
+app.config.form_object(Config)
+babel.init_app(app)
 
 
 @app.route('/', strict_slashes=False)
