@@ -9,7 +9,7 @@ app = Flask(__name__)
 
 
 @app.route('/', strict_slashes=False)
-def basic_app():
+def basic_app() -> str:
     """Basic Flask app.
     """
     return render_template('0-index.html')
