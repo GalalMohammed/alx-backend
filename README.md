@@ -225,3 +225,125 @@ ALX backend.
 [LukeW | Mobile First](https://www.lukew.com/ff/entry.asp?933)
 
 [Responsive Design Newsletter](https://bytes.dev/?s=rwd)
+
+## React
+
+### Webpack
+
+[Webpack documentation](https://webpack.js.org/concepts/)
+
+[Webpack beginner guide](https://www.sitepoint.com/webpack-beginner-guide/)
+
+[npm-package.json](https://docs.npmjs.com/files/package.json/)
+
+### React intro
+
+[React Official Website](https://react.dev/)
+
+[Getting started with React](https://www.taniarascia.com/getting-started-with-react/)
+
+[Quick Start with React](https://react.dev/learn)
+
+[create-react-app](https://github.com/facebook/create-react-app)
+
+[React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?pli=1)
+
+[What is Babel?](https://babeljs.io/docs/)
+
+[Enzyme](https://enzymejs.github.io/enzyme/docs/api/shallow.html)
+
+### React props
+
+[React Fragments](https://react.dev/reference/react/Fragment)
+
+### React component
+
+[React components](https://legacy.reactjs.org/docs/react-component.html)
+
+[Enzyme Mount](https://enzymejs.github.io/enzyme/docs/api/ReactWrapper/mount.html)
+
+[Enzyme Unmount](https://enzymejs.github.io/enzyme/docs/api/ReactWrapper/unmount.html)
+
+[React Pure components](https://legacy.reactjs.org/docs/react-api.html)
+
+[React Higher Order Components](https://legacy.reactjs.org/docs/higher-order-components.html)
+
+[Jest mock function](https://jestjs.io/docs/jest-object)
+
+### React inline styling
+
+[Aphrodite](https://github.com/khan/aphrodite)
+
+[Inline styling](https://legacy.reactjs.org/docs/dom-elements.html)
+
+[Enzyme Render](https://enzymejs.github.io/enzyme/docs/api/ShallowWrapper/render.html)
+
+[Enzyme Prop](https://enzymejs.github.io/enzyme/docs/api/ShallowWrapper/prop.html)
+
+[CSS Viewport](https://www.w3schools.com/css/css_rwd_viewport.asp)
+
+[CSS Media queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+
+[CSS Animations](https://www.w3schools.com/css/css3_animations.asp)
+
+### React state
+
+[State and lifecycle](https://legacy.reactjs.org/docs/state-and-lifecycle.html)
+
+[SetState and State callback](https://legacy.reactjs.org/docs/react-component.html)
+
+[Context](https://legacy.reactjs.org/docs/context.html)
+
+[Forms and Controlled components](https://legacy.reactjs.org/docs/forms.html)
+
+[Lifting State Up](https://legacy.reactjs.org/docs/lifting-state-up.html)
+
+[React Hooks](https://legacy.reactjs.org/docs/hooks-intro.html)
+
+[Enzyme State](https://enzymejs.github.io/enzyme/docs/api/ReactWrapper/state.html)
+
+[Enzyme SetState](https://enzymejs.github.io/enzyme/docs/api/ShallowWrapper/setState.html)
+
+[Enzyme Instance](https://enzymejs.github.io/enzyme/docs/api/ShallowWrapper/instance.html)
+
+[Enzyme Simulate](https://enzymejs.github.io/enzyme/docs/api/ShallowWrapper/simulate.html)
+
+### React Immutable
+
+[Immutable.js Documentation](https://immutable-js.com/docs/v5/)
+
+[Immutable.js GitHub](https://github.com/immutable-js/immutable-js)
+
+### React Redux action creator+normalizr
+
+[Normalizr](https://github.com/paularmstrong/normalizr)
+
+[Normalizing State Shape](https://redux.js.org/usage/structuring-reducers/normalizing-state-shape)
+
+[Redux Getting started and core concepts](https://redux.js.org/introduction/getting-started)
+
+[Redux Actions](https://redux.js.org/tutorials/fundamentals/part-2-concepts-data-flow)
+
+[Async Actions](https://redux.js.org/tutorials/fundamentals/part-6-async-logic)
+
+[Writing tests for Redux](https://redux.js.org/usage/writing-tests)
+
+### React Redux reducer+selector
+
+[Reducers](https://redux.js.org/tutorials/fundamentals/part-3-state-actions-reducers)
+
+[Selectors](https://redux.js.org/introduction/learning-resources#selectors)
+
+### React Redux Connectors and Providers
+
+[Redux CreateStore](https://react-redux.js.org/api/connect)
+
+[Redux Provider](https://react-redux.js.org/api/provider)
+
+[Redux Middleware](https://redux.js.org/tutorials/fundamentals/part-4-store#middleware)
+
+[Redux Thunk](https://github.com/reduxjs/redux-thunk)
+
+[Redux devtools](https://chromewebstore.google.com/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)
+
+[Redux Reselect](https://github.com/reduxjs/reselect)
