@@ -347,3 +347,147 @@ ALX backend.
 [Redux devtools](https://chromewebstore.google.com/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)
 
 [Redux Reselect](https://github.com/reduxjs/reselect)
+
+## More
+
+### Flexbox
+
+[A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+[Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com/#ar)
+
+[Flexbox Defense](http://www.flexboxdefense.com/)
+
+[Flexbox Cheatsheet](https://yoksel.github.io/flex-cheatsheet/)
+
+[afonsopacifer/awesome-flexbox: A curated list of CSS Flexible Box Layout Module or only Flexbox.](https://github.com/afonsopacifer/awesome-flexbox)
+
+[Build with Flexbox](https://flexbox.buildwithreact.com/)
+
+[Flexplorer](https://bennettfeely.com/flexplorer/)
+
+[CSS Flexible Box Layout Module Level 1](https://www.w3.org/TR/css-flexbox-1/#flex)
+
+[FLEX: A simple visual cheatsheet for flexbox](https://flexbox.malven.co/)
+
+### Forms
+
+[An Extensive Guide To Web Form Usability — Smashing Magazine](https://www.smashingmagazine.com/2011/11/extensive-guide-web-form-usability/)
+
+[Forms - UX Movement](https://uxmovement.com/category/forms/)
+
+[Placeholders in Form Fields are Harmful (Video)](https://www.nngroup.com/videos/placeholders-form-fields/)
+
+[The Anatomy of Accessible Forms: Best Practices | Deque](https://www.deque.com/blog/anatomy-of-accessible-forms-best-practices/)
+
+[Pure CSS Custom Error Messaging for Default Form Elements – Sarah Holley Design](https://sarahholleydesign.com/pure-css-custom-error-messaging-for-default-form-elements/)
+
+### Accessibility
+
+[Accessibility Conformance Levels: Standards](https://www.levelaccess.com/blog/ada-compliance-levels/)
+
+[Accessibility is not a feature. — Ethan Marcotte](https://ethanmarcotte.com/wrote/accessibility-is-not-a-feature/)
+
+[How to Meet WCAG (Quickref Reference)](https://www.w3.org/WAI/WCAG22/quickref/?versions=2.1)
+
+[Web Accessibility Guidebook for Developers](https://www.telerik.com/blogs/web-accessibility-guidebook-for-developers?fbclid=IwAR3v8sqaMyuAYfa14dZJpDKqJd-v8qKfaKeEvZJRKTcRIOabNnYGPo4rA7U)
+
+[Testing with assistive technologies - Service Manual - GOV.UK](https://www.gov.uk/service-manual/technology/testing-with-assistive-technologies)
+
+[A11Y Style Guide](https://a11y-style-guide.com/style-guide/)
+
+[Building Pylon-Free Web Pages: An Intro to Web Accessibility](https://engineering.vena.io/building-pylon-free-web-pages-an-intro-to-web-accessibility/)
+
+[The Myths of Color Contrast Accessibility](https://uxmovement.com/buttons/the-myths-of-color-contrast-accessibility/)
+
+[IAAP Certification](https://www.accessibilityassociation.org/certification-overview)
+
+[Accessibility Blog | Deque Systems](https://www.deque.com/blog/)
+
+[Tink - Léonie Watson – On technology, food & life in the digital age](https://tink.uk/)
+
+[Accessibility Weekly](https://a11yweekly.com/)
+
+[Section508.gov | GSA Government-wide IT Accessibility Program](https://www.section508.gov/)
+
+#### ARIA (Accessible Rich Internet Applications)
+
+##### Categories
+
+[First Rule of ARIA Use](https://www.w3.org/TR/using-aria/#rule1)
+
+[Introduction to ARIA | Web Fundamentals | Google Developers](https://web.dev/articles/semantics-aria?hl=ar)
+
+[Getting started with ARIA - The A11Y Project](https://www.a11yproject.com/posts/getting-started-aria/)
+
+[WAI-ARIA: Top 6 Mistakes to Avoid | Deque](https://www.deque.com/blog/wai-aria-top-6-mistakes-to-avoid/)
+
+[WebAIM: To ARIA! The Cause of, and Solution to, All Our Accessibility Problems](https://webaim.org/blog/aria-cause-solution/)
+
+###### ARIA Roles
+
+[ARIA Roles](https://www.w3.org/TR/wai-aria/#roles_categorization)
+
+###### ARIA States and Properties
+
+[ARIA States and Properties](https://www.w3.org/TR/wai-aria/#states_and_properties)
+
+#### A11y testing tools
+
+[Button Contrast Checker | Aditus | Free tool](https://www.aditus.io/button-contrast-checker/)
+
+[Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/test-evaluate/tools/list/)
+
+[WAVE Web Accessibility Tool](https://wave.webaim.org/)
+
+[Accessibility testing tools – Updated May 2019 | TPG – The Accessibility Experts](https://www.tpgi.com/accessibility-testing-tools-we-use/)
+
+[9 Tools for Website Accessibility Testing](https://www.shopify.com/ca/partners/blog/website-accessibility-testing)
+
+[Top 25 Awesome Accessibility Testing Tools for Websites](https://dynomapper.com/blog/27-accessibility-testing/246-top-25-awesome-accessibility-testing-tools-for-websites)
+
+###### Deque Systems
+
+[Web Accessibilty Testing](https://chromewebstore.google.com/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd)
+
+##### Screen Readers
+
+######## Screen readers and voice tools
+
+[JAWS Screen Reader - Best in Class](https://www.freedomscientific.com/Products/software/JAWS/)
+
+[NV Access | Download](https://www.nvaccess.org/download/)
+
+[Vision Accessibility - Mac - Apple (CA)](https://www.apple.com/ca/accessibility/features/?vision)
+
+[Dragon NaturallySpeaking - world’s best-selling speech recognition software | Nuance](https://www.nuance.com/dragon.html)
+
+#### Keyboard Navigation
+
+[switch button](https://www.24a11y.com/2018/i-used-a-switch-control-for-a-day/)
+
+[WebAIM: Keyboard Accessibility](https://webaim.org/techniques/keyboard/)
+
+[Designing for Keyboard Accessibility | Accessible Technology](https://www.washington.edu/accesstech/checklist/keyboard/)
+
+[I Threw Away my Mouse - 24 Accessibility](https://www.24a11y.com/2018/i-threw-away-my-mouse/)
+
+[Tab order | UX design | Accessibility for Teams](https://accessibility.digital.gov/ux/tab-order/)
+
+#### Skip Links
+
+[WebAIM: “Skip Navigation” Links](https://webaim.org/techniques/skipnav/)
+
+[How-to: Use skip navigation links - The A11Y Project](https://www.a11yproject.com/posts/skip-nav-links/)
+
+[Your skip links are broken - Axess Lab](https://axesslab.com/skip-links/)
+
+### Sass & Scss
+
+[Sass Basics](https://sass-lang.com/guide/)
+
+[Sass flow control directives: @if, @for, @each and @while](https://sass-lang.com/documentation/at-rules/control/)
+
+[Sass references](https://sass-lang.com/documentation/)
+
+[A11Y Style Guide - Skip Links](https://a11y-style-guide.com/style-guide/section-general.html#kssref-general-skip-links)
